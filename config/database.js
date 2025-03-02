@@ -4,7 +4,7 @@ const mongoose = require('mongoose')
 
 
 const connectDb = mongoose
-.connect(' mongodb+srv://premjai411:86HkmKGsm7n90OF2@cloud-cluster.nkcoz.mongodb.net/bike-shop?retryWrites=true&w=majority&appName=Cloud-Cluster',{
+.connect('mongodb+srv://premjai411:86HkmKGsm7n90OF2@cloud-cluster.nkcoz.mongodb.net/bike-shop?retryWrites=true&w=majority&appName=Cloud-Cluster',{
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
