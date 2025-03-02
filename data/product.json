@@ -1,0 +1,74 @@
+[
+    {
+        "name":"Royal Enfield Bullet 350",
+        "rent":100,
+        "description":"rent charge by hours",
+        "ratings":4.3,
+        "image":"/image/imm1.avif",
+        "categories":"Bike",
+        "seller":"newBikes",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    },
+    {
+        "name":"TVS Raider 125",
+        "rent":100,
+        "description":"rent charge by hours",
+        "ratings":4.3,
+        "image":"/image/imm2.webp",
+        "categories":"Bike",
+        "seller":"newBikes",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    },
+    {
+        "name":"EeVe Xeniaa",
+        "rent":500,
+        "description":"rent charge by day",
+        "ratings":4.3,
+        "image":"/image/imm4.webp",
+        "categories":"Bicycle",
+        "seller":"Cycle-Shop",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    },
+    {
+        "name":"EeVe Wind",
+        "rent":300,
+        "description":"rent charge by day",
+        "ratings":4.3,
+        "image":"/image/imm5.jpg",
+        "categories":"Bicycle",
+        "seller":"Cycle-Shop",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    }, 
+    {
+        "name":"EeVe Atreo",
+        "rent":850,
+        "description":"rent charge by day",
+        "ratings":4.3,
+        "image":"/image/imm6.webp",
+        "categories":"Bicycle",
+        "seller":"Cycle-Shop",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    },
+    {
+        "name":"Bajaj Pulsar N160",
+        "rent":100,
+        "description":"rent charge by hours",
+        "ratings":4.3,
+        "image":"/image/imm3.webp",
+        "categories":"Bike",
+        "seller":"fashionBike",
+        "numOfReviews":5,
+        "quantity":1,
+        "review":[ ]
+    }
+]
